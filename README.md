@@ -44,6 +44,6 @@ The script will output the recent events for the user `octocat`.
 - Ensure you have an active internet connection to fetch data from the GitHub API.
 - The script handles HTTP errors gracefully and prints an error message if the data cannot be fetched.
 
-Feel free to modify the script to suit your needs or integrate it into a larger application.
+project URL: [https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/github-user-activity)
 ```
 
